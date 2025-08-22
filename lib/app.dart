@@ -4,6 +4,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import 'Button.dart';
 import 'Home.dart';
 
 class MyApp extends StatelessWidget{
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
 
       title: 'Batch !! Fulltter ',
-      home:Home(),
+      home:Button(),
 
     );
   }
