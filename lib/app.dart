@@ -3,6 +3,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter2/textfield.dart';
 
 import 'Button.dart';
 import 'Home.dart';
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
 
       title: 'Batch !! Fulltter ',
-      home:Button(),
+      home:textfield(),
 
     );
   }
