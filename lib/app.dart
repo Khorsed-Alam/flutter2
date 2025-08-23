@@ -3,6 +3,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter2/image_formissues.dart';
 import 'package:flutter2/textfield.dart';
 
 import 'Button.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
 
       title: 'Batch !! Fulltter ',
-      home:textfield(),
+      home: image_formissues(),
 
     );
   }
