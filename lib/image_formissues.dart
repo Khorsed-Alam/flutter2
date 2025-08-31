@@ -105,6 +105,9 @@ class image_formissues  extends StatelessWidget {
                 SizedBox(
                   height: 10,
                 ),
+                SizedBox(
+                  height: 10,
+                ),
 
                 SizedBox(
                   width: 300,
